@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Lucas! 🖐️
 
-🖥️ Atualmente estou em um recomeço profissional, em busca de conhecimento na área de tecnologia 
-para retribuir no mercado de trabalho. 
+🖥️  Em processo de transição de carreira, tenho como objetivo adquirir conhecimentos e experiências na área tecnológica utilizando como base habilidades desenvolvidas durante a trajetória administrativa e em consultoria de vendas, como a comunicação, organização e o trabalho em equipe. 
 
 🎓Relacionado aos estudos tenho o script totalmente voltado para a programação Front-end.
 
