@@ -1,10 +1,8 @@
 ### Olá! Eu sou o Lucas! 🖐️
 
-🖥️  Em processo de transição de carreira, tenho como objetivo adquirir conhecimentos e experiências na área tecnológica utilizando como base habilidades desenvolvidas durante a trajetória administrativa e em consultoria de vendas, como a comunicação, organização e o trabalho em equipe. 
+🖥️ Profissional administrativo em transição para a área de tecnologia, estou comprometido em expandir meus horizontes e explorar novos caminhos profissionais. Com a formação acadêmica em análise e desenvolvimento de sistemas em andamento, me oferece uma base sólida para essa transição, enquanto meus conhecimentos em HTML, CSS, JavaScript e React me capacitam para embarcar nesta jornada como desenvolvedor web.
 
-🎓Relacionado aos estudos tenho o script totalmente voltado para a programação Front-end.
-
-🔎Curiosidades e Hobbies: No tempo livre gosto de fazer música, viajar, reunir os amigos e dar boas risadas.
+Estou determinado a aprender e crescer constantemente nesta nova área. Estou disposto a enfrentar desafios e a me esforçar para me destacar como desenvolvedor web. Com uma mentalidade focada em resultados e uma abordagem proativa, estou pronto para assumir os desafios que surgirem e me tornar um profissional de sucesso nesta indústria dinâmica e empolgante.
 
 [![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white))](https://www.instagram.com/lucasalves0722/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-alves-messias-6a004a200/)
