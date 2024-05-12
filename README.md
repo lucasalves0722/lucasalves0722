@@ -1,8 +1,10 @@
 ### Olá! Eu sou o Lucas! 🖐️
 
-🖥️ Profissional administrativo em transição para a área de tecnologia, estou comprometido em expandir meus horizontes e explorar novos caminhos profissionais. Com a formação acadêmica em análise e desenvolvimento de sistemas em andamento, me oferece uma base sólida para essa transição, enquanto meus conhecimentos em HTML, CSS, JavaScript e React me capacitam para embarcar nesta jornada como desenvolvedor web.
+🖥️ Profissional administrativo em transição para uma carreira na área de tecnologia. Atualmente, estou dedicando meu tempo ao curso de Análise e Desenvolvimento de Sistemas na faculdade. Este novo caminho representa não apenas uma mudança de carreira, mas também uma paixão emergente pela criação e solução de problemas por meio da programação.
 
-Estou determinado a aprender e crescer constantemente nesta nova área. Estou disposto a enfrentar desafios e a me esforçar para me destacar como desenvolvedor web. Com uma mentalidade focada em resultados e uma abordagem proativa, estou pronto para assumir os desafios que surgirem e me tornar um profissional de sucesso nesta indústria dinâmica e empolgante.
+Cada dia é uma oportunidade para absorver o máximo de conhecimento possível na área de tecnologia. Estou mergulhando fundo nos estudos de desenvolvimento Backend, explorando as linguagens de programação, os conceitos de banco de dados e as melhores práticas de desenvolvimento de software.
+
+Estou determinado a aprender e crescer constantemente nesta nova área. Estou disposto a enfrentar desafios e a me esforçar para me destacar como desenvolvedor. Com uma mentalidade focada em resultados e uma abordagem proativa, estou pronto para assumir os desafios que surgirem e me tornar um profissional de sucesso nesta indústria dinâmica e empolgante.
 
 [![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white))](https://www.instagram.com/lucasalves0722/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-alves-messias-6a004a200/)
@@ -13,9 +15,6 @@ Estou determinado a aprender e crescer constantemente nesta nova área. Estou di
 
 ### Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br/>
-  <img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img aling="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
   <img aling=center alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 </div><br/>
 
