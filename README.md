@@ -17,6 +17,8 @@ Estou determinado a aprender e crescer constantemente nesta nova área. Estou di
   <img aling=center alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalves0722)](https://github.com/lucasalves0722/github-readme-stats)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lucasalves0722&layout=compact&bg_color=000&border_color=30A3DC&title_color=white&text_color=white")
+
+
 
 ---
